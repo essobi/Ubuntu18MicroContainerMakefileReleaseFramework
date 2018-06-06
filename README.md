@@ -1,0 +1,1 @@
+Makefile Dockerfile Micro-Framework for Applications on Micro-Ubuntu-18.  Tiny-releases-as-a-Makefile. This will get over written when you run ```make readme```.  Buckle up, and enjoy the trip to the clouds.
